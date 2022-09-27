@@ -1,0 +1,13 @@
+
+.tablica  {
+    margin:5vh auto;
+    max-height:10vh;
+    max-width:70%;
+    font-size:17px;
+    box-shadow: 2.5px 3px 4px 4px rgba(42, 42, 42, 0.46);
+}
+
+
+.table-header, .table-row {
+    text-align:center;
+}
